@@ -3,6 +3,7 @@
 ## Introduction
 This repository is the official implementation of our paper "Unified spatio-temporal attention mixformer for visual object tracking, **Engineering Applications of Artificial Intelligence, 2024**". Our code is based on [MixFormer](https://github.com/MCG-NJU/MixFormer).
 
+
 <p align="center">
 <img src="figures/USTAM.png" width="800"/>
 </p>
